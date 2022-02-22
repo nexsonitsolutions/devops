@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(180,255,255,0.9);
+      background-color: rgba(255,150,255,0.5);
       position: absolute;
       width: 100%;
       height: 100%;
@@ -193,7 +193,7 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>DevOps Job Application</h1>
+          <h1>DEVOPS JOB APPLICATION</h1>
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
         
