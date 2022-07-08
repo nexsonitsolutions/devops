@@ -196,7 +196,7 @@
           <h1>DevOps Job Application Form</h1>
         </div>
         <div align="center">
-        <p class="top-info"><b>Thank you for your interest in working with us. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
+        <p class="top-info"><b>Thank you for your interest in working with us Have a great day. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
         </div>
         
 <div align="center">
